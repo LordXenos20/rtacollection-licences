@@ -1,0 +1,9 @@
+{
+  "type": "etat_licences",
+  "produit": "RTAcollection",
+  "numero": 1,
+  "emis_le": "2026-11-19",
+  "valide_jusqu_au": "2027-01-18",
+  "licences": {},
+  "signature": "22b4a04fa24d5e8676241f433acfeef3f8ea7a7746406006ad926c0e4f16b75b7547027448ab89761f8942c32293460f8943f184d9040710fc5b1b3ce23ec301"
+}
